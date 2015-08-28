@@ -1,5 +1,7 @@
 ES-Checker is a feature detection library for ECMAScript in node.js and browser. Please visit [demo](http://ruanyf.github.io/es-checker/).
 
+文章介绍：[ES6 的功能侦测库 ES-Checker](http://www.ruanyifeng.com/blog/2015/06/es-checker.html)
+
 ## How to use
 
 ### Command line
